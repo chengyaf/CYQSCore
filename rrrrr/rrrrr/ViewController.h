@@ -1,13 +1,15 @@
 //
-//  CYQSCore.m
-//  CYQSCore
+//  ViewController.h
+//  rrrrr
 //
 //  Created by lashou456 on 2017/4/10.
 //  Copyright © 2017年 lashou456. All rights reserved.
 //
 
-#import "CYQSCore.h"
+#import <UIKit/UIKit.h>
 
-@implementation CYQSCore
+@interface ViewController : UIViewController
+
 
 @end
+
